@@ -5,13 +5,13 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/Et-anon/u2b",
-  "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/Et-anon/u2b",
+  "repository": "hhttps://github.com/Et-anon/youtube-Downloader-bot",
+  "success_url": "https://t.me/myutdl_bot",
+  "website": "https://github.com/Et-anon/youtube-Downloader-bot",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
+        "API_ID": {"description": "U Can Get from https://my.telegram.org", "required": true},
+        "API_HASH": {"description": "U Can Get from https://my.telegram.org" , "required": true},
+        "BOT_TOKEN": {"description": "Get Bot Token From https://t.me/BotFather Bot","required": true}
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
