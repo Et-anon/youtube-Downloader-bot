@@ -13,7 +13,7 @@
     - python3 -m bot
     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Et-anon/u2b/tree/master)
 
  ## If U Have Any Question
    <a href="https://t.me/Et_Anon"><b>Et Anon</b></a>
